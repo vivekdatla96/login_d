@@ -1,5 +1,7 @@
 # login_d
 
+[![Android CI](https://github.com/vivekdatla96/login_d/actions/workflows/android.yml/badge.svg)](https://github.com/vivekdatla96/login_d/actions/workflows/android.yml)
+
 An Android demo of a login and registration flow.
 
 ## Screens
